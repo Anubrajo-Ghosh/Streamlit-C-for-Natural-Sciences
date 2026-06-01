@@ -1,7 +1,7 @@
 # C for Natural Sciences Website
 <div align="center">
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://c-for-natural-sciences-sbqjhssvaqhxtyxxwgzudd.streamlit.app/)
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://c-for-natural-sciences-sbqjhssvaqhxtyxxwgzudd.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit&logoColor=white)
