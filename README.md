@@ -1,7 +1,7 @@
 # C for Natural Sciences Website
 <div align="center">
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit_App-FF4B4B?style=plastic&logo=Streamlit&logoColor=white)](https://c-for-natural-sciences-sbqjhssvaqhxtyxxwgzudd.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit_App-FF4B4B?style=plastic&logo=Streamlit&logoColor=white)](https://c-for-natural-sciences.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=plastic&logo=Streamlit&logoColor=white)
@@ -42,7 +42,7 @@ Every module pairs its C programming concept with a concrete Microbiology or Bio
 | **Component**      | **Technology**                           | **Purpose**                                                  |
 | ------------------ | ---------------------------------------- | ------------------------------------------------------------ |
 | Frontend / UI      | Streamlit (Python)                       | Interactive web UI, sidebar navigation, tabs, expanders      |
-| Language           | Python 3.10+                             | Application logic, module routing, session state             |
+| Language           | Python 3.12                              | Application logic, module routing, session state             |
 | C Code Display     | st.code() with syntax highlighting       | Renders all C programs with colour highlighting              |
 | Module Import      | Python importlib                         | Dynamic import of chapter modules (avoids numeric filenames) |
 | Session Management | Streamlit st.session_state               | Splash screen, loading animation, login/logout state         |
@@ -54,7 +54,7 @@ Every module pairs its C programming concept with a concrete Microbiology or Bio
 
 The project follows a flat chapter-module architecture where each topic is a separate Python file inside a chapters/ subdirectory. The main entry point is app.py at the root.
 
-**C-for-Natural-Sciences** <-- Main Folder
+**Streamlit-C-for-Natural-Sciences** <-- Main Folder
 | **Path / File**           | **Description**                                                |
 | ------------------------- | -------------------------------------------------------------- |
 | app.py                    | Main entry point; handles routing, splash screen, and sidebar. |
@@ -209,7 +209,7 @@ This loads the file chapters/1_generations.py and assigns the module object to g
 
 ### **8.1 Prerequisites**
 
-- Python 3.10 or higher
+- Python 3.10 or higher (preferably Python 3.12)
 - pip (Python package manager)
 - A terminal / command prompt
 - Git (optional - for cloning from GitHub)
@@ -218,7 +218,7 @@ This loads the file chapters/1_generations.py and assigns the module object to g
 
 - Clone or download the repository:
 
-`git clone <https://github.com/<your-username>/c-for-natural-sciences.git>`
+`git clone <https://github.com/Anubrajo-Ghosh/streamlit-c-for-natural-sciences.git>`
 
 `cd c-for-natural-sciences`
 
@@ -348,8 +348,8 @@ This project is an original submission. The application code, module content, qu
 | Semester              | Semester 2, 1st Year                         |
 | College               | St. Xavier's College (Autonomous), Kolkata   |
 | Affiliated University | University of Calcutta                       |
-| MDS Paper             | AI for Natural Sciences                      |
-| Paper Code            | (as per your college syllabus)               |
+| MDS2 Paper             | AI for Natural Sciences                      |
+| Paper Code            | M1CH250211P                                  |
 | Academic Year         | 2025-2026                                    |
 | Application           | C for Natural Sciences - Streamlit Study App |
 
