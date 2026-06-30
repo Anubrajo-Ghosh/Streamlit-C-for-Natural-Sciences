@@ -316,13 +316,13 @@ program.exe # Windows
 
 ### **11.4 Online compilers (no local installation needed)**
 
-- Programiz Online C Compiler - programiz.com/c-programming/online-compiler
+- Programiz Online C Compiler - [programiz.com/c-programming/online-compiler](https://www.programiz.com/c-programming/online-compiler/)
 - GDB Online - https://www.onlinegdb.com/
 
 # **12\. Known Limitations**
 
 - C programs are display-only - they cannot be compiled or executed within the application itself.
-- However all the C Programs included have been verified and tested. If required they can be tested on any onlinegdb.com/online_c_compiler.
+- However all the C Programs included have been verified and tested. If required they can be tested on any C Complier like GDB Online - https://www.onlinegdb.com/.
 - The background image on the splash screen must be manually placed at the project root; it is not embedded in the Python source.
 - Tab 3 of the Lab Repository uses Variable-Length Arrays (int arr\[n\]) which are C99/C11 only, optional in C11, and not available in C17+. A portability note is displayed in the module.
 - The auto-scroll JavaScript uses window.parent DOM manipulation which may behave differently across Streamlit versions. A try/catch fallback is included.
