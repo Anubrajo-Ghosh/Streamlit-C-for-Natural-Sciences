@@ -60,7 +60,7 @@ The project follows a flat chapter-module architecture where each topic is a sep
 | app.py                    | Main entry point; handles routing, splash screen, and sidebar. |
 | loading_bio.jpg           | Background image for the splash screen.                        |
 | requirements.txt          | Python dependencies required for deployment.                   |
-| **chapters**             | **Subdirectory containing all study modules**.                 |
+| **chapters**              | **Subdirectory containing all study modules**.                 |
 | home.py                   | Home / landing page.                                           |
 | 1_generations.py          | Module 1: Language Generations.                                |
 | 2_history.py              | Module 2: History of C.                                        |
@@ -317,7 +317,6 @@ program.exe # Windows
 ### **11.4 Online compilers (no local installation needed)**
 
 - Programiz Online C Compiler - programiz.com/c-programming/online-compiler
-- OnlineGDB - onlinegdb.com/online_c_compiler
 - GDB Online - gdbonline.org
 
 # **12\. Known Limitations**
@@ -348,7 +347,7 @@ This project is an original submission. The application code, module content, qu
 | Semester              | Semester 2, 1st Year                         |
 | College               | St. Xavier's College (Autonomous), Kolkata   |
 | Affiliated University | University of Calcutta                       |
-| MDS2 Paper             | AI for Natural Sciences                      |
+| MDS Paper             | AI for Natural Sciences                      |
 | Paper Code            | M1CH250211P                                  |
 | Academic Year         | 2025-2026                                    |
 | Application           | C for Natural Sciences - Streamlit Study App |
