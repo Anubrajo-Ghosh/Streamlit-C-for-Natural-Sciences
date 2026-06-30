@@ -317,7 +317,7 @@ program.exe # Windows
 ### **11.4 Online compilers (no local installation needed)**
 
 - Programiz Online C Compiler - programiz.com/c-programming/online-compiler
-- GDB Online - gdbonline.org
+- GDB Online - https://www.onlinegdb.com/
 
 # **12\. Known Limitations**
 
