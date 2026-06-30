@@ -220,7 +220,7 @@ This loads the file chapters/1_generations.py and assigns the module object to g
 
 `git clone <https://github.com/Anubrajo-Ghosh/streamlit-c-for-natural-sciences.git>`
 
-`cd c-for-natural-sciences`
+`cd streamlit-c-for-natural-sciences`
 
 - Create a virtual environment (recommended):
 
